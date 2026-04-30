@@ -1,4 +1,4 @@
-# ai-error-resolution-agent
+# AI-error-resolution-agent
 Ai Agent to fix integration errors 
 
 **Type:** AI-Powered In-Product Feature | B2B SaaS | Compliance Tech  
